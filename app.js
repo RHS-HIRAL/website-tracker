@@ -1,3 +1,6 @@
+//This code is made to check if a certain website contains a special keyword or keywords.
+// I made this website to check if the results are uploaded on the GTU Website.
+
 const axios = require('axios');
 
 var urlresult = "https://www.gturesults.in";
