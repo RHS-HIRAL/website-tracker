@@ -1,5 +1,6 @@
 //This code is made to check if a certain website contains a special keyword or keywords.
 // I made this website to check if the results are uploaded on the GTU Website.
+//Want to add a code that can send email when results are uploaded
 
 const axios = require('axios');
 
